@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio_rest_api",
+  "version": "1.0.0",
+  "description": "ejercicio de rest api",
+  "main": "criptomonedas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karla F",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
